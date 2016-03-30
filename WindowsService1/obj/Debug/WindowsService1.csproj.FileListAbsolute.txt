@@ -38,4 +38,3 @@ c:\users\truong.nguyen\documents\visual studio 2013\Projects\SelfHost_Service\Wi
 c:\users\truong.nguyen\documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\System.Web.WebPages.Deployment.xml
 c:\users\truong.nguyen\documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\System.Web.WebPages.Razor.xml
 c:\users\truong.nguyen\documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.XML
-c:\users\truong.nguyen\documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache

@@ -31,7 +31,7 @@ namespace WindowsService1
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
-            AreaRegistration.RegisterAllAreas();
+            //AreaRegistration.RegisterAllAreas();
             appBuilder.UseWebApi(HttpConfiguration);
         }
 
