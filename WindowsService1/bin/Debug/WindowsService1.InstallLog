@@ -1,0 +1,109 @@
+﻿Installing assembly 'C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service1.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service1.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\visual studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service Self Host Sample Service...
+Service Self Host Sample Service has been successfully installed.
+Creating EventLog source Self Host Sample Service in log Application...
+Committing assembly 'C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Self Host Sample Service.
+Service Self Host Sample Service is being removed from the system...
+Service Self Host Sample Service was successfully removed from the system.
+Installing assembly 'C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service Self Host Sample Service...
+Service Self Host Sample Service has been successfully installed.
+Creating EventLog source Self Host Sample Service in log Application...
+Committing assembly 'C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Truong.Nguyen\Documents\Visual Studio 2013\Projects\SelfHost_Service\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
