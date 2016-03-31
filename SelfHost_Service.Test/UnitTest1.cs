@@ -9,7 +9,7 @@ namespace SelfHost_Service.Test
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.Equals(1, 123 123);
+            Assert.Equals(1, 123);
         }
     }
 }
