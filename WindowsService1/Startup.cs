@@ -10,7 +10,7 @@ using System.Web.Mvc;
 namespace WindowsService1
 {
     //just test triger
-    public class Startup
+    public class Startup1
     {
         //  Hack from http://stackoverflow.com/a/17227764/19020 to load controllers in 
         //  another assembly.  Another way to do this is to create a custom assembly resolver
